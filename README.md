@@ -1,6 +1,6 @@
 ## Welcome to Ayush's Online Space
 
-Something exciting is cooking up here, come back soon!
+
 
 ### Markdown
 
